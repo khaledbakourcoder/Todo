@@ -10,6 +10,7 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        first_gradient: "var(--first_gradient_color)"
       },
     },
   },
